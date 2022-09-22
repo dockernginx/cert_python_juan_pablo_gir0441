@@ -1,5 +1,7 @@
 '''
-Descripción: 
+Nombre: Juan Pablo Palma Apoderado
+Fecha: 
+Descripción:
 '''
 print("    *")
 print("   * *")
