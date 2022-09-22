@@ -1,6 +1,6 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
-Fecha: 
+Fecha:  20 / sep /2022
 Descripción: Esto es un programa para realizar los comandos básicos de python
 '''
 print("¡Hola mundo!")

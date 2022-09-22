@@ -1,7 +1,7 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
-Fecha: 
-Descripción:
+Fecha: 22 / sep / 2022
+Descripción: Intruduciras un numero flotante para que realize varias operaciones artimeticas en escaleras
 '''
 
 

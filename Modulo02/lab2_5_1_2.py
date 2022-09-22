@@ -1,8 +1,9 @@
 # este programa calcula los segundos en cierto número de horas determinadas 
 # este programa fue escrito hace dos días
-'''Nombre: Juan Pablo Palma Apoderado
-Fecha: 
-Descripción:
+'''
+Nombre: Juan Pablo Palma Apoderado
+Fecha: 22 / sep / 2022
+Descripción:Pasar de horas a segundos 
 '''
 a = 2 # número de horas
 seconds = 3600 # número de segundos en una hora

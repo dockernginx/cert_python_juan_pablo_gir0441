@@ -1,7 +1,7 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
-Fecha: 
-Descripción:
+Fecha: 22 / sep / 2022
+Descripción: Entraran dosvalores flotantes para realizar diferentes operaciones artimeticas
 '''
 # ingresa un valor flotante para la variable a aquí
 a = float(input())

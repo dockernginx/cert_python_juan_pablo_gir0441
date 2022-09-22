@@ -1,7 +1,7 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
-Fecha: 
-Descripción:
+Fecha: 22 / sep / 2022
+Descripción: Tomara horas y minutos , y tiempo restante para que termine una determinada hora
 '''
 hour = int(input("Hora de inicio (horas): "))
 mins = int(input("Minuto de inicio (minutos): "))

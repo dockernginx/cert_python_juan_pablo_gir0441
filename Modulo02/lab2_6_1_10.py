@@ -1,7 +1,7 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
-Fecha: 
-Descripción:
+Fecha: 22/ sep / 2022
+Descripción: Ingresaras un valor flotante para realizar operaciones en escaleras
 '''
 
 x = float(input("Ingresa el valor para x: "))
