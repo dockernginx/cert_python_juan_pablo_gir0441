@@ -1,3 +1,11 @@
+'''
+Nombre: Juan Pablo Palma Apoderado
+Fecha:  26 / sep /2022
+Descripción: Esto es un programa de un mago que te hacer caer en un bucle que tienes que adivinar su 
+numero magico y sino lo haces te quedas ahi pero sigues intentando su numero magico. 
+'''
+
+
 secret_number = 777
 print(
 """

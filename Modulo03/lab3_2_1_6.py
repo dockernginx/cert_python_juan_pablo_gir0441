@@ -1,3 +1,9 @@
+
+'''
+Nombre: Juan Pablo Palma Apoderado
+Fecha:  26/ sep /2022
+Descripción: Esto es un programa que imprime 6 veces la palabra "Mississippi" junto con una sleep 
+'''
 import time
 
     # Escribe un bucle for que cuente hasta cinco.
