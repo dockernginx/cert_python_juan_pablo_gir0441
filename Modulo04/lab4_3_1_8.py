@@ -32,7 +32,7 @@ def dayOfYear(year, month, day):#en esta función sabremos el dia y año que
     total = day
     month = month - 1
     while month > 0: #Condionamos que el mes sea mayor a 0 
-          total += daysInMonth(year, month)
+          total += daysInMonth(year, month) #
           month-=1
     return total
 
