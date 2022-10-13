@@ -9,13 +9,13 @@ def is_prime(num):
 # Escribe tu código aquí.
 #
  div = 2
- while div < num: 
-     if num % div == 0: 
-       return False
-     div = div + 1
- return True 
+ while div < num: #Condionamos que div sea menor que num 
+     if num % div == 0: #Comparamos que num se divisible entre div
+       return False  #si es correcto retornamos un valor booleano falso
+     div = div + 1 #realizamos un suma en incremento con la variable div
+ return True #si se termina la condición retornamos Verdadero
 
-for i in range(1, 20):
-	if is_prime(i + 1):
-			print(i + 1, end=" ")
+for i in range(1, 20):#Recorre desde 1 hasta 20 
+	if is_prime(i + 1):#llamamos a la función y incremanta a un el valor de i que priviene del for
+			print(i + 1, end=" ")#terminamos 
 print()

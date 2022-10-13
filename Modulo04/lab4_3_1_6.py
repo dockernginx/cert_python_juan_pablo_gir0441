@@ -10,7 +10,7 @@ def is_year_leap(year):
 #
 # Escribe tu código aquí.
 #
-  if year < 1582: 
+  if year < 1582: #En esta condicional vamos a verificar que el año sea actual al calendario gregoriano
     print("No entra en el calendario gregoriano")
   elif year % 4 !=0: 
     return False
@@ -20,13 +20,13 @@ def is_year_leap(year):
     return False
   else: 
     return True
-test_data = [1900, 2000, 2016, 1987]
-test_results = [False, True, True, False]
-for i in range(len(test_data)):
+test_data = [1900, 2000, 2016, 1987] #Los años estan guardados los años que vamos a comparar
+test_results = [False, True, True, False] #La posición de los años que deben regresar
+for i in range(len(test_data)): #Recorre los años con el FOR
 	yr = test_data[i]
 	print(yr,"->",end="")
 	result = is_year_leap(yr)
-	if result == test_results[i]:
+	if result == test_results[i]: #Si el resultado es igual a los test_result
 		print("OK")
 	else:
 		print("Fallido")
