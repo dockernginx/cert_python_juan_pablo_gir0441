@@ -1,6 +1,9 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
 Fecha: 13 / oct / 2022
+Descricpción: Realizaremos una arregolo de numeros de control, crearemos otro para que acad numoer de control 
+le asignemos un nombre de un alumno mdainte un for, imprimeros los nombres , por ultimo buscaremos si esta un 
+numoer de control en especifico.
 '''
 numeros_control = [1219100524,1219100537,1219100543,121910133,1219100484] #Agregamos un arrreglo con los numeros de control
 nombre = [] #Otro arreglo con nombres vacio

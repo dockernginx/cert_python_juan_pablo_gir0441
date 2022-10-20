@@ -1,7 +1,8 @@
 '''
 Nombre: Juan Pablo Palma Apoderado
 Fecha: 13 / oct / 2022
-Descripción: EL ejercicio 
+Descripción: EL ejercicio No.1 Es crear una lista y dicha lista insertaremos un nuevo elemento en un posición 
+especifica y otro con la función happend, por ultimo mostraremos los elemntos de la lista. Asi como mostrar la lista y el tamaño. 
 '''
 nom = ['Francisco', 'Pedro','Juan','Fernando'] #nombramos un  arreglo nom con los nombres de los amigos
 print("El tamaño de la lista es: ", len(nom))#Imprimimos el tamaño del arreglo con la función len
